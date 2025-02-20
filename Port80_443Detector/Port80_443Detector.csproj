@@ -16,7 +16,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Jhonatan\ZTETelnetPreset\ZTETelnetPreset\libs\NetworkServices\NetworkServices.csproj" />
+    <ProjectReference Include="..\libs\NetworkServices\NetworkServices.csproj" />
+    <ProjectReference Include="..\libs\TerminalCommands\TerminalCommands.csproj" />
   </ItemGroup>
 
 </Project>

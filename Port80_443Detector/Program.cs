@@ -6,9 +6,9 @@ namespace Port80_443Detector {
             if(args.Length != 1) return;
 
             string ip = args[0];
-            if (await PortDetector.ExistsAsync(ip, 80, 500)) {
+            if (await InterfaceInfo.PortExistsAsync(ip, 80, 500)) {
                 Console.WriteLine("porta 80 detectada");
-            } else if (await PortDetector.ExistsAsync(ip, 443, 500)) {
+            } else if (await InterfaceInfo.PortExistsAsync(ip, 443, 500)) {
                 Console.WriteLine("porta 443 detectada");
             } else {
                 Console.WriteLine("porta não detectada");

@@ -4,11 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Port80_443Detector", "Port80_443Detector.csproj", "{2D486EFC-7D2B-4FDF-B6EC-C5CC82F7DAA6}"
-	ProjectSection(ProjectDependencies) = postProject
-		{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85} = {0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}
-	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetworkServices", "..\..\Jhonatan\ZTETelnetPreset\ZTETelnetPreset\libs\NetworkServices\NetworkServices.csproj", "{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkServices", "..\libs\NetworkServices\NetworkServices.csproj", "{8B1AB229-5908-4D81-AA00-A37D25924EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalCommands", "..\libs\TerminalCommands\TerminalCommands.csproj", "{B8CFDFF3-9908-4E3D-B760-D280AB69C29B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +19,14 @@ Global
 		{2D486EFC-7D2B-4FDF-B6EC-C5CC82F7DAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D486EFC-7D2B-4FDF-B6EC-C5CC82F7DAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D486EFC-7D2B-4FDF-B6EC-C5CC82F7DAA6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0F17D6DF-BAE8-43B3-825E-603F9FF8EF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B1AB229-5908-4D81-AA00-A37D25924EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1AB229-5908-4D81-AA00-A37D25924EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1AB229-5908-4D81-AA00-A37D25924EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1AB229-5908-4D81-AA00-A37D25924EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8CFDFF3-9908-4E3D-B760-D280AB69C29B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8CFDFF3-9908-4E3D-B760-D280AB69C29B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8CFDFF3-9908-4E3D-B760-D280AB69C29B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8CFDFF3-9908-4E3D-B760-D280AB69C29B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

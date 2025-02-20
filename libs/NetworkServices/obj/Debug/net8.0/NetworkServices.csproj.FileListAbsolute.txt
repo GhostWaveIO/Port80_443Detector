@@ -1,0 +1,13 @@
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.AssemblyInfoInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.AssemblyInfo.cs
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.csproj.CoreCompileInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.sourcelink.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\bin\Debug\net8.0\NetworkServices.deps.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\bin\Debug\net8.0\NetworkServices.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\bin\Debug\net8.0\TerminalCommands.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.csproj.AssemblyReference.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkS.2740581A.Up2Date
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\NetworkServices.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\refint\NetworkServices.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\NetworkServices\obj\Debug\net8.0\ref\NetworkServices.dll

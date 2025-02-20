@@ -1,0 +1,10 @@
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\bin\Debug\net8.0\TerminalCommands.deps.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\bin\Debug\net8.0\TerminalCommands.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.AssemblyInfoInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.AssemblyInfo.cs
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.csproj.CoreCompileInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.sourcelink.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\TerminalCommands.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\refint\TerminalCommands.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\libs\TerminalCommands\obj\Debug\net8.0\ref\TerminalCommands.dll

@@ -1,0 +1,5 @@
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\publish\Port80_443Detector.exe
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\publish\Port80_443Detector.dll
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\publish\Port80_443Detector.deps.json
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\publish\Port80_443Detector.runtimeconfig.json
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\publish\NetworkServices.dll

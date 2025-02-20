@@ -1,0 +1,15 @@
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\Port80_443Detector.exe
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\Port80_443Detector.deps.json
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\Port80_443Detector.runtimeconfig.json
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\Port80_443Detector.dll
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\bin\Release\net8.0\NetworkServices.dll
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.csproj.AssemblyReference.cache
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.AssemblyInfoInputs.cache
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.AssemblyInfo.cs
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.csproj.CoreCompileInputs.cache
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_4.4E520471.Up2Date
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.dll
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\refint\Port80_443Detector.dll
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\Port80_443Detector.genruntimeconfig.cache
+D:\Projetos 2\99Freelas\Deletar\Port80_443Detector\obj\Release\net8.0\ref\Port80_443Detector.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Port80_443Detector/1.0.0": {
+        "dependencies": {
+          "NetworkServices": "1.0.0"
+        },
+        "runtime": {
+          "Port80_443Detector.dll": {}
+        }
+      },
+      "NetworkServices/1.0.0": {
+        "runtime": {
+          "NetworkServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Port80_443Detector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetworkServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

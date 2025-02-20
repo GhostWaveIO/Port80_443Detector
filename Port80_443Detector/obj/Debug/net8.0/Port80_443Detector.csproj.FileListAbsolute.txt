@@ -1,0 +1,17 @@
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\Port80_443Detector.exe
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\Port80_443Detector.deps.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\Port80_443Detector.runtimeconfig.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\Port80_443Detector.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\NetworkServices.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\bin\Debug\net8.0\TerminalCommands.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.csproj.AssemblyReference.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.AssemblyInfoInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.AssemblyInfo.cs
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.csproj.CoreCompileInputs.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.sourcelink.json
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_4.4E520471.Up2Date
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\refint\Port80_443Detector.dll
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\Port80_443Detector.genruntimeconfig.cache
+D:\Downloads\Principais Projetos\Públicos\Port80_443Detector\Port80_443Detector\obj\Debug\net8.0\ref\Port80_443Detector.dll
